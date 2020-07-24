@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-24T02:56:41.858Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="OpU-yAtIpHedX0UfQ-yZ" version="13.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-24T02:57:12.658Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="9_rsDP7GaYLKqU2_L9u-" version="13.5.1" type="github">
   <diagram id="0YfM54YLL3d5J6dc9Wcw" name="Page-1">
     <mxGraphModel dx="782" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -102,8 +102,8 @@
         <mxCell id="A9Hz1d1B_xaYPRxxfRa6-5" value="10.3.244.53" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
           <mxGeometry x="346.6" y="120" width="57.4" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="A9Hz1d1B_xaYPRxxfRa6-8" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Ip scan:&lt;/span&gt;10.3.244.55&lt;br&gt;pri-ibdb.hq.icbv.com:1521" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="254" y="230" width="150" height="30" as="geometry" />
+        <mxCell id="A9Hz1d1B_xaYPRxxfRa6-8" value="pri-ibdb.hq.icbv.com:1521" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="254" y="235" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="A9Hz1d1B_xaYPRxxfRa6-15" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Oracle Rac&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="90" width="80" height="20" as="geometry" />
